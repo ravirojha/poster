@@ -1,0 +1,35 @@
+.body {
+  border: 1px solid blueviolet;
+  top: 200px;
+  left: 200px;
+  position: absolute;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.image {
+  display: flex;
+  width: 290px;
+  margin-left: 35px;
+  border: 1px solid blueviolet;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.title {
+  display: flex;
+  font-size: xx-large;
+  color: blueviolet;
+  padding-left: 125px;
+}
+
+.text {
+  display: flex;
+}
